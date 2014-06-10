@@ -1,4 +1,4 @@
-## Reproducible Research
+##  Reproducible Research
 
 ### Peer Assessment 1
 =====================
@@ -196,5 +196,4 @@ xyplot(activity2$step_interval ~ activity2$interval | activity2$week,
 ```
 
 ![plot of chunk panelplot](figure/panelplot.png) 
-
 
